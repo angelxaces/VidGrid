@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name VidGrid Development cleanup
-// @run-at document-idle
+// @run-at document-end
 // @description Watch a selection of feeds on Chaturbate.com simultaneously within a single tab using VidGrid!
 // @author Mr. Jangles
 // @match http*://*.chaturbate.com/*&*
